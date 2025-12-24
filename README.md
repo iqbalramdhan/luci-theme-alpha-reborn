@@ -66,9 +66,6 @@ alpha os is my idea which wants to develop the OpenWrt community in Indonesia, e
 Indowrt (indonesian Openwrt Community)
 DBAI (Device Berbasis Arm Indonesia)
 
-### frameworks
-this theme using vanilla css
-touch with AI Gemini Pro
 
 ### Attention 
 This theme is an experimental theme, so there may still be many improvements and shortcomings. Please continue to support us at:
