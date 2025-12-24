@@ -35,17 +35,17 @@ This official 2'nd theme in Indo-Wrt Community in indonesia. Not the result of m
 <summary>Preview Screenshoot</summary>
 <p>
   
-![image](https://raw.githubusercontent.com/derisamedia/luci-theme-alphar-reborn/main/screenshot/1.png)
+![image](https://raw.githubusercontent.com/derisamedia/luci-theme-alpha-reborn/main/screenshot/1.png)
   
-![image](https://raw.githubusercontent.com/derisamedia/luci-theme-alphar-reborn/main/screenshot/2.png)
+![image](https://raw.githubusercontent.com/derisamedia/luci-theme-alpha-reborn/main/screenshot/2.png)
 
-![image](https://raw.githubusercontent.com/derisamedia/luci-theme-alphar-reborn/main/screenshot/3.png)
+![image](https://raw.githubusercontent.com/derisamedia/luci-theme-alpha-reborn/main/screenshot/3.png)
 
-![image](https://raw.githubusercontent.com/derisamedia/luci-theme-alphar-reborn/main/screenshot/4.png)
+![image](https://raw.githubusercontent.com/derisamedia/luci-theme-alpha-reborn/main/screenshot/4.png)
 
-![image](https://raw.githubusercontent.com/derisamedia/luci-theme-alphar-reborn/main/screenshot/5.png)
+![image](https://raw.githubusercontent.com/derisamedia/luci-theme-alpha-reborn/main/screenshot/5.png)
 
-![image](https://raw.githubusercontent.com/derisamedia/luci-theme-alphar-reborn/main/screenshot/6.png)
+![image](https://raw.githubusercontent.com/derisamedia/luci-theme-alpha-reborn/main/screenshot/6.png)
 
 </p>
 
