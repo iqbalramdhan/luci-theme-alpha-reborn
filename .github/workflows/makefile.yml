@@ -30,7 +30,7 @@ jobs:
       - name: Copy luci-theme-4lpha
         run: |
           mkdir -p openwrt-sdk/package/custom
-          cp -r luci-theme-alpha openwrt-sdk/package/custom/
+          cp -r luci-theme-4lpha openwrt-sdk/package/custom/
 
       - name: Build luci-theme-4lpha
         run: |
@@ -43,5 +43,5 @@ jobs:
       - name: Upload ipk
         uses: actions/upload-artifact@v4
         with:
-          name: luci-theme-alpha
+          name: luci-theme-4lpha
           path: openwrt-sdk/bin/packages/**/*.ipk
