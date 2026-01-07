@@ -8,7 +8,8 @@ jobs:
     runs-on: ubuntu-24.04
     
     steps:
-    
+      - name: Install build dependencies
+        run: sudo apt-get update && sudo apt-get install -y gcc g++
       # 1. Checkout repo theme luci-theme-alpha di folder "theme"
       - name: Checkout luci-theme-alpha
         uses: actions/checkout@v4
